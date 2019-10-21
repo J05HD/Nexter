@@ -1,5 +1,5 @@
 # Nexter
-Nexter: Made up housing real estate company
+Nexter: Mock-up for a housing real estate company.
 
 
 #### Technologies
